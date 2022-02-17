@@ -46,6 +46,7 @@ Library/SceneVisibilityState.asset
 Library/Search/transactions.db
 Library/SourceAssetDB
 UserSettings/Layouts/default-2021.dwlt
+<<<<<<< HEAD
 Library/ArtifactDB
 Library/SceneVisibilityState.asset
 Library/Search/transactions.db
@@ -74,3 +75,5 @@ Logs/AssetImportWorker0.log
 >>>>>>> parent of 04741bae (Update .gitignore)
 =======
 >>>>>>> parent of 33760639 (Update .gitignore)
+=======
+>>>>>>> parent of 51ea7896 (test2)
