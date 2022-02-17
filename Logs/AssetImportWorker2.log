@@ -1,7 +1,11 @@
 Using pre-set license
 Built from '2021.2/staging' branch; Version is '2021.2.7f1 (6bd9e232123f) revision 7068130'; Using compiler version '192829333'; Build Type 'Release'
 <<<<<<< HEAD
+<<<<<<< HEAD
 OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'sv' Physical Memory: 32709 MB
+=======
+OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'sv' Physical Memory: 16300 MB
+>>>>>>> parent of 93707401 (Delete Logs directory)
 =======
 OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'sv' Physical Memory: 16300 MB
 >>>>>>> parent of 93707401 (Delete Logs directory)
@@ -16,6 +20,7 @@ C:\Program Files\Unity\Hub\Editor\2021.2.7f1\Editor\Unity.exe
 AssetImportWorker2
 -projectPath
 <<<<<<< HEAD
+<<<<<<< HEAD
 G:/2222 Unity projects/One-TrickGnomes
 -logFile
 Logs/AssetImportWorker2.log
@@ -24,6 +29,8 @@ Logs/AssetImportWorker2.log
 Successfully changed project path to: G:/2222 Unity projects/One-TrickGnomes
 G:/2222 Unity projects/One-TrickGnomes
 =======
+=======
+>>>>>>> parent of 93707401 (Delete Logs directory)
 C:/Users/Anton/Documents/GitHub/One-TrickGnomes
 -logFile
 Logs/AssetImportWorker2.log
@@ -31,6 +38,9 @@ Logs/AssetImportWorker2.log
 50967
 Successfully changed project path to: C:/Users/Anton/Documents/GitHub/One-TrickGnomes
 C:/Users/Anton/Documents/GitHub/One-TrickGnomes
+<<<<<<< HEAD
+>>>>>>> parent of 93707401 (Delete Logs directory)
+=======
 >>>>>>> parent of 93707401 (Delete Logs directory)
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
@@ -62,6 +72,7 @@ C:/Users/Anton/Documents/GitHub/One-TrickGnomes
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< HEAD
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 109.81 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.2.7f1 (6bd9e232123f)
@@ -75,6 +86,8 @@ Direct3D:
     VRAM:     4043 MB
     Driver:   30.0.14.7168
 =======
+=======
+>>>>>>> parent of 93707401 (Delete Logs directory)
 Refreshing native plugins compatible for Editor in 127.91 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.2.7f1 (6bd9e232123f)
@@ -87,11 +100,15 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     8079 MB
     Driver:   30.0.15.1123
+<<<<<<< HEAD
+>>>>>>> parent of 93707401 (Delete Logs directory)
+=======
 >>>>>>> parent of 93707401 (Delete Logs directory)
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< HEAD
 <<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56364
 Begin MonoManager ReloadAssembly
@@ -107,6 +124,8 @@ Domain Reload Profiling:
 	ReloadAssembly (1179ms)
 		BeginReloadAssembly (352ms)
 =======
+=======
+>>>>>>> parent of 93707401 (Delete Logs directory)
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56676
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -120,12 +139,16 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (940ms)
 		BeginReloadAssembly (122ms)
+<<<<<<< HEAD
+>>>>>>> parent of 93707401 (Delete Logs directory)
+=======
 >>>>>>> parent of 93707401 (Delete Logs directory)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 		EndReloadAssembly (699ms)
 			LoadAssemblies (347ms)
@@ -142,6 +165,8 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (208ms)
 				ProcessInitializeOnLoadMethodAttributes (66ms)
 =======
+=======
+>>>>>>> parent of 93707401 (Delete Logs directory)
 		EndReloadAssembly (704ms)
 			LoadAssemblies (120ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -156,6 +181,9 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (1ms)
 				ProcessInitializeOnLoadAttributes (188ms)
 				ProcessInitializeOnLoadMethodAttributes (73ms)
+<<<<<<< HEAD
+>>>>>>> parent of 93707401 (Delete Logs directory)
+=======
 >>>>>>> parent of 93707401 (Delete Logs directory)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -163,6 +191,7 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.006177 seconds.
 Begin MonoManager ReloadAssembly
@@ -210,6 +239,8 @@ Unloading 25 unused Assets / (87.4 KB). Loaded Objects now: 3713.
 Memory consumption went from 199.6 MB to 199.5 MB.
 Total: 5.872100 ms (FindLiveObjects: 0.818600 ms CreateObjectMapping: 0.321400 ms MarkObjects: 4.595900 ms  DeleteObjects: 0.135100 ms)
 =======
+=======
+>>>>>>> parent of 93707401 (Delete Logs directory)
 Registered in 0.007301 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Anton\Documents\GitHub\One-TrickGnomes\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
@@ -255,6 +286,9 @@ Unloading 3226 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 25 unused Assets / (87.4 KB). Loaded Objects now: 3713.
 Memory consumption went from 199.8 MB to 199.7 MB.
 Total: 7.402000 ms (FindLiveObjects: 0.230400 ms CreateObjectMapping: 0.207000 ms MarkObjects: 2.831700 ms  DeleteObjects: 4.132000 ms)
+<<<<<<< HEAD
+>>>>>>> parent of 93707401 (Delete Logs directory)
+=======
 >>>>>>> parent of 93707401 (Delete Logs directory)
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -270,6 +304,7 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Import Request.
 <<<<<<< HEAD
+<<<<<<< HEAD
   Time since last request: 72013.350058 seconds.
   path: Assets/New Terrain 2.asset
   artifactKey: Guid(2e18bad8caf78234da3deff3bf6fccec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -281,6 +316,8 @@ Received Import Request.
   artifactKey: Guid(8393db73094f5a74d982102344b3c100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/_Gloomy_Wizard/Script/AniPlayWizard.cs using Guid(8393db73094f5a74d982102344b3c100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '554ea081a35ce2541bfb9bf6362fb398') in 0.009993 seconds 
 =======
+=======
+>>>>>>> parent of 93707401 (Delete Logs directory)
   Time since last request: 134317.968087 seconds.
   path: Assets/Cemetery Pack Cute Series/Prefabs/Platform 01.prefab
   artifactKey: Guid(feeb75e7aa0f8b245b572c4f79f56d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -445,4 +482,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+<<<<<<< HEAD
+>>>>>>> parent of 93707401 (Delete Logs directory)
+=======
 >>>>>>> parent of 93707401 (Delete Logs directory)
