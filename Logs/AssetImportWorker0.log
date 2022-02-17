@@ -3,6 +3,7 @@ Built from '2021.2/staging' branch; Version is '2021.2.7f1 (6bd9e232123f) revisi
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'sv' Physical Memory: 32709 MB
 =======
 OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'sv' Physical Memory: 16300 MB
@@ -13,6 +14,9 @@ OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'sv' Physical Memory: 16300 
 =======
 OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'sv' Physical Memory: 16300 MB
 >>>>>>> parent of 93707401 (Delete Logs directory)
+=======
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'sv' Physical Memory: 32709 MB
+>>>>>>> parent of 81a6941a (Logskit)
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
@@ -23,6 +27,7 @@ C:\Program Files\Unity\Hub\Editor\2021.2.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -52,6 +57,15 @@ C:/Users/Anton/Documents/GitHub/One-TrickGnomes
 >>>>>>> parent of 93707401 (Delete Logs directory)
 =======
 >>>>>>> parent of 93707401 (Delete Logs directory)
+=======
+G:/2222 Unity projects/One-TrickGnomes
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65242
+Successfully changed project path to: G:/2222 Unity projects/One-TrickGnomes
+G:/2222 Unity projects/One-TrickGnomes
+>>>>>>> parent of 81a6941a (Logskit)
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -84,6 +98,7 @@ C:/Users/Anton/Documents/GitHub/One-TrickGnomes
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 109.86 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.2.7f1 (6bd9e232123f)
@@ -102,15 +117,19 @@ Direct3D:
 =======
 >>>>>>> parent of 93707401 (Delete Logs directory)
 Refreshing native plugins compatible for Editor in 97.19 ms, found 3 plugins.
+=======
+Refreshing native plugins compatible for Editor in 109.86 ms, found 3 plugins.
+>>>>>>> parent of 81a6941a (Logskit)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.2.7f1 (6bd9e232123f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Anton/Documents/GitHub/One-TrickGnomes/Assets
+[Subsystems] Discovering subsystems at path G:/2222 Unity projects/One-TrickGnomes/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
     Vendor:   NVIDIA
+<<<<<<< HEAD
     VRAM:     8079 MB
     Driver:   30.0.15.1123
 <<<<<<< HEAD
@@ -120,10 +139,15 @@ Direct3D:
 >>>>>>> parent of 93707401 (Delete Logs directory)
 =======
 >>>>>>> parent of 93707401 (Delete Logs directory)
+=======
+    VRAM:     4043 MB
+    Driver:   30.0.14.7168
+>>>>>>> parent of 81a6941a (Logskit)
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -146,16 +170,20 @@ Domain Reload Profiling:
 =======
 >>>>>>> parent of 93707401 (Delete Logs directory)
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56612
+>>>>>>> parent of 81a6941a (Logskit)
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004575 seconds.
+Registered in 0.008433 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 117.26 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 103.92 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.898 seconds
+- Completed reload, in  1.159 seconds
 Domain Reload Profiling:
+<<<<<<< HEAD
 	ReloadAssembly (898ms)
 		BeginReloadAssembly (159ms)
 <<<<<<< HEAD
@@ -165,11 +193,16 @@ Domain Reload Profiling:
 >>>>>>> parent of 93707401 (Delete Logs directory)
 =======
 >>>>>>> parent of 93707401 (Delete Logs directory)
+=======
+	ReloadAssembly (1160ms)
+		BeginReloadAssembly (356ms)
+>>>>>>> parent of 81a6941a (Logskit)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -194,16 +227,21 @@ Domain Reload Profiling:
 >>>>>>> parent of 93707401 (Delete Logs directory)
 		EndReloadAssembly (647ms)
 			LoadAssemblies (156ms)
+=======
+		EndReloadAssembly (675ms)
+			LoadAssemblies (350ms)
+>>>>>>> parent of 81a6941a (Logskit)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (148ms)
+			SetupTypeCache (160ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (45ms)
-			SetupLoadedEditorAssemblies (380ms)
+			SetupLoadedEditorAssemblies (403ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (19ms)
+				InitializePlatformSupportModulesInManaged (22ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (117ms)
+				RefreshPlugins (104ms)
 				BeforeProcessingInitializeOnLoad (2ms)
+<<<<<<< HEAD
 				ProcessInitializeOnLoadAttributes (186ms)
 				ProcessInitializeOnLoadMethodAttributes (55ms)
 <<<<<<< HEAD
@@ -213,12 +251,17 @@ Domain Reload Profiling:
 >>>>>>> parent of 93707401 (Delete Logs directory)
 =======
 >>>>>>> parent of 93707401 (Delete Logs directory)
+=======
+				ProcessInitializeOnLoadAttributes (206ms)
+				ProcessInitializeOnLoadMethodAttributes (68ms)
+>>>>>>> parent of 81a6941a (Logskit)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -273,48 +316,52 @@ Total: 6.237300 ms (FindLiveObjects: 0.673400 ms CreateObjectMapping: 0.405700 m
 =======
 >>>>>>> parent of 93707401 (Delete Logs directory)
 Registered in 0.005524 seconds.
+=======
+Registered in 0.005691 seconds.
+>>>>>>> parent of 81a6941a (Logskit)
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Anton\Documents\GitHub\One-TrickGnomes\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Anton\Documents\GitHub\One-TrickGnomes\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image G:\2222 Unity projects\One-TrickGnomes\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image G:\2222 Unity projects\One-TrickGnomes\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.288 seconds
+- Completed reload, in  1.502 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1289ms)
-		BeginReloadAssembly (127ms)
+	ReloadAssembly (1504ms)
+		BeginReloadAssembly (174ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
+			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (23ms)
-		EndReloadAssembly (1016ms)
-			LoadAssemblies (96ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (1185ms)
+			LoadAssemblies (108ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (413ms)
+			SetupTypeCache (421ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (57ms)
-			SetupLoadedEditorAssemblies (407ms)
+			RebuildScriptCaches (79ms)
+			SetupLoadedEditorAssemblies (522ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (13ms)
+				InitializePlatformSupportModulesInManaged (17ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (92ms)
-				ProcessInitializeOnLoadAttributes (266ms)
-				ProcessInitializeOnLoadMethodAttributes (29ms)
-				AfterProcessingInitializeOnLoad (6ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (343ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+				AfterProcessingInitializeOnLoad (11ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (11ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
-Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3226 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 25 unused Assets / (87.4 KB). Loaded Objects now: 3713.
+<<<<<<< HEAD
 Memory consumption went from 199.8 MB to 199.7 MB.
 Total: 3.692100 ms (FindLiveObjects: 0.247600 ms CreateObjectMapping: 0.281200 ms MarkObjects: 3.072300 ms  DeleteObjects: 0.090100 ms)
 <<<<<<< HEAD
@@ -324,6 +371,10 @@ Total: 3.692100 ms (FindLiveObjects: 0.247600 ms CreateObjectMapping: 0.281200 m
 >>>>>>> parent of 93707401 (Delete Logs directory)
 =======
 >>>>>>> parent of 93707401 (Delete Logs directory)
+=======
+Memory consumption went from 199.5 MB to 199.4 MB.
+Total: 6.237300 ms (FindLiveObjects: 0.673400 ms CreateObjectMapping: 0.405700 ms MarkObjects: 5.014300 ms  DeleteObjects: 0.142000 ms)
+>>>>>>> parent of 81a6941a (Logskit)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -340,10 +391,14 @@ Received Import Request.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 81a6941a (Logskit)
   Time since last request: 72013.261890 seconds.
   path: Assets/TerrainData_045d3ed3-2c46-4799-9874-135b15233fa3.asset
   artifactKey: Guid(7318fe072fa405044b2923d7a050c580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/TerrainData_045d3ed3-2c46-4799-9874-135b15233fa3.asset using Guid(7318fe072fa405044b2923d7a050c580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ab7d4ff570be0c9a3180f7f28e3232a') in 0.162668 seconds 
+<<<<<<< HEAD
 ========================================================================
 Received Import Request.
   Time since last request: 0.000066 seconds.
@@ -399,44 +454,47 @@ Exiting without the bug reporter. Application will terminate with return code 0
   path: Assets/Cemetery Pack Cute Series/Prefabs/Light Stand 01 Light Off.prefab
   artifactKey: Guid(14ef91cfd87d9e24985d74762404ead2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Cemetery Pack Cute Series/Prefabs/Light Stand 01 Light Off.prefab using Guid(14ef91cfd87d9e24985d74762404ead2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '616d1c3869bd806479dc5976d6705c1d') in 0.301292 seconds 
+=======
+>>>>>>> parent of 81a6941a (Logskit)
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Cemetery Pack Cute Series/Prefabs/Waypoint 01.prefab
-  artifactKey: Guid(c9241bff8b8af994e8ad82d58a5337d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cemetery Pack Cute Series/Prefabs/Waypoint 01.prefab using Guid(c9241bff8b8af994e8ad82d58a5337d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8325f339cb5d736082b61b93a1721c0') in 0.045107 seconds 
+  Time since last request: 0.000066 seconds.
+  path: Assets/New Terrain 5.asset
+  artifactKey: Guid(3123e8cafae2b9342b373d072969ff5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 5.asset using Guid(3123e8cafae2b9342b373d072969ff5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842f462139f08ebc2a2e376b26e1dc0f') in 0.052605 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Cemetery Pack Cute Series/Prefabs/Tree Log 01.prefab
-  artifactKey: Guid(31eaa3847eca93f4ab8411cc244f4c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cemetery Pack Cute Series/Prefabs/Tree Log 01.prefab using Guid(31eaa3847eca93f4ab8411cc244f4c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd69a697254b540381217537b9491b16f') in 0.026036 seconds 
+  Time since last request: 0.003223 seconds.
+  path: Assets/TerrainData_5427b546-c640-4177-9d0d-3afc7ebbb4e5.asset
+  artifactKey: Guid(b5516fca545a82b48b48e3e741c02a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_5427b546-c640-4177-9d0d-3afc7ebbb4e5.asset using Guid(b5516fca545a82b48b48e3e741c02a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c417bfc6961f9e760da15faeaa6c54') in 0.022588 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Cemetery Pack Cute Series/Prefabs/Bush 03.prefab
-  artifactKey: Guid(1eb754688a71f6f49a9ba83f3221e531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cemetery Pack Cute Series/Prefabs/Bush 03.prefab using Guid(1eb754688a71f6f49a9ba83f3221e531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bebf277685dc217c84ee9a48329c375') in 0.092563 seconds 
+  Time since last request: 0.000043 seconds.
+  path: Assets/TerrainData_5b75c73b-6673-4b9e-820c-92d89f74f6bc.asset
+  artifactKey: Guid(f8a60f922dc1cc84aa6848c56f933ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_5b75c73b-6673-4b9e-820c-92d89f74f6bc.asset using Guid(f8a60f922dc1cc84aa6848c56f933ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c8c8bcbcc1bbcf26e3c415b5fe3e95') in 0.038589 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Cemetery Pack Cute Series/Prefabs/Fence Pillar 01.prefab
-  artifactKey: Guid(ed934bea07fbf97418a2c33b0eed56ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cemetery Pack Cute Series/Prefabs/Fence Pillar 01.prefab using Guid(ed934bea07fbf97418a2c33b0eed56ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850560a8b650cadc32e33c0dbb78cda3') in 0.053859 seconds 
+  Time since last request: 0.000032 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(4d670051a5631834f84b77d15090491f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(4d670051a5631834f84b77d15090491f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '250139d6e123b49bbba107ec00b1eec4') in 0.019285 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Cemetery Pack Cute Series/Prefabs/Tree 02.prefab
-  artifactKey: Guid(1ee3e1f4838036d4db9ef7ad78010c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cemetery Pack Cute Series/Prefabs/Tree 02.prefab using Guid(1ee3e1f4838036d4db9ef7ad78010c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8618e76f5c20a0e6475df01b167d425c') in 0.071775 seconds 
+  Time since last request: 0.000027 seconds.
+  path: Assets/TerrainData_7180204f-03ed-47e3-b7bb-5b73d4abd04b.asset
+  artifactKey: Guid(b229b75c3e5a18f4e806dfc552203c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_7180204f-03ed-47e3-b7bb-5b73d4abd04b.asset using Guid(b229b75c3e5a18f4e806dfc552203c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0fd614a31a486b70889b73b395191a1') in 0.027145 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Cemetery Pack Cute Series/Prefabs/Tree 05 Double Sided.prefab
-  artifactKey: Guid(5aa3e58a21d0c0e40a9e2a087bf9ff0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cemetery Pack Cute Series/Prefabs/Tree 05 Double Sided.prefab using Guid(5aa3e58a21d0c0e40a9e2a087bf9ff0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c7f84c55cc5acc8db2dc31c2f4da3b') in 0.066769 seconds 
+  Time since last request: 0.000038 seconds.
+  path: Assets/New Terrain 3.asset
+  artifactKey: Guid(8d774101e0756ce46b494f8e34b01904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 3.asset using Guid(8d774101e0756ce46b494f8e34b01904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba5bd551d38d3b11437462a7b7b8010') in 0.031937 seconds 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 0.000028 seconds.
   path: Assets/Cemetery Pack Cute Series/Prefabs/Tombstone 01.prefab
   artifactKey: Guid(dc7aabed70d346a4abbd6b49f2e742fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -578,3 +636,13 @@ AssetImportParameters requested are different than current active one (requested
 >>>>>>> parent of 93707401 (Delete Logs directory)
 =======
 >>>>>>> parent of 93707401 (Delete Logs directory)
+=======
+  Time since last request: 0.000032 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(5ce4ac62ddfb59a4d851fa5e16274975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(5ce4ac62ddfb59a4d851fa5e16274975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc60dd1980028ec51d27d7fa1e43c83') in 0.047155 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
+>>>>>>> parent of 81a6941a (Logskit)
