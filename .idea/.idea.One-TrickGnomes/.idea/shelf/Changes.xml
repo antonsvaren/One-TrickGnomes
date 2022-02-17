@@ -1,0 +1,19 @@
+<changelist name="Changes" date="1645059215490" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.One-TrickGnomes/.idea/shelf/Changes/shelved.patch" />
+  <option name="DESCRIPTION" value="Changes" />
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ArtifactDB" />
+    <option name="AFTER_PATH" value="Library/ArtifactDB" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.One-TrickGnomes/.idea/shelf/Changes/ArtifactDB" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/SourceAssetDB" />
+    <option name="AFTER_PATH" value="Library/SourceAssetDB" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.One-TrickGnomes/.idea/shelf/Changes/SourceAssetDB" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Search/transactions.db" />
+    <option name="AFTER_PATH" value="Library/Search/transactions.db" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.One-TrickGnomes/.idea/shelf/Changes/transactions.db" />
+  </binary>
+</changelist>

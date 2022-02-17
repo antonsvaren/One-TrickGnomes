@@ -1,0 +1,292 @@
+Using pre-set license
+Built from '2021.2/staging' branch; Version is '2021.2.7f1 (6bd9e232123f) revision 7068130'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'sv' Physical Memory: 32709 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/2222 Unity projects/One-TrickGnomes
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50447
+Successfully changed project path to: G:/2222 Unity projects/One-TrickGnomes
+G:/2222 Unity projects/One-TrickGnomes
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 107.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.2.7f1 (6bd9e232123f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/2222 Unity projects/One-TrickGnomes/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4043 MB
+    Driver:   30.0.14.7168
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56500
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009572 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 93.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.809 seconds
+Domain Reload Profiling:
+	ReloadAssembly (810ms)
+		BeginReloadAssembly (84ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (618ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (150ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (352ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (25ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (93ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (174ms)
+				ProcessInitializeOnLoadMethodAttributes (58ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003511 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image G:\2222 Unity projects\One-TrickGnomes\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image G:\2222 Unity projects\One-TrickGnomes\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.296 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1297ms)
+		BeginReloadAssembly (143ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (1023ms)
+			LoadAssemblies (95ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (339ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (66ms)
+			SetupLoadedEditorAssemblies (470ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (55ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (99ms)
+				ProcessInitializeOnLoadAttributes (270ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3223 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (87.3 KB). Loaded Objects now: 3709.
+Memory consumption went from 199.5 MB to 199.4 MB.
+Total: 5.275400 ms (FindLiveObjects: 0.590200 ms CreateObjectMapping: 0.346900 ms MarkObjects: 4.195300 ms  DeleteObjects: 0.140800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 62078.120571 seconds.
+  path: Assets/TerrainData_5b56cbcf-1bc4-4f2b-9e56-73d9d04ee1c2.asset
+  artifactKey: Guid(ccda0aeae15347849921041494a868b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_5b56cbcf-1bc4-4f2b-9e56-73d9d04ee1c2.asset using Guid(ccda0aeae15347849921041494a868b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ebcdfe1dd8940079dfd286477266843') in 0.066411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/New Render Texture.renderTexture
+  artifactKey: Guid(80dcca087951b234fbac211a627738fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Render Texture.renderTexture using Guid(80dcca087951b234fbac211a627738fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479357eef3170a7c62e915843b483daa') in 0.120044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(5ce4ac62ddfb59a4d851fa5e16274975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(5ce4ac62ddfb59a4d851fa5e16274975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc60dd1980028ec51d27d7fa1e43c83') in 0.030329 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003870 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image G:\2222 Unity projects\One-TrickGnomes\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image G:\2222 Unity projects\One-TrickGnomes\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.234 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1234ms)
+		BeginReloadAssembly (138ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (982ms)
+			LoadAssemblies (80ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (335ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (423ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (275ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3218 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (79.9 KB). Loaded Objects now: 3746.
+Memory consumption went from 205.8 MB to 205.7 MB.
+Total: 4.538100 ms (FindLiveObjects: 0.299300 ms CreateObjectMapping: 0.233200 ms MarkObjects: 3.841600 ms  DeleteObjects: 0.162300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 155.014150 seconds.
+  path: Assets/Forest Ruins Pack/Prefabs/Clusters/Ancient Pillar Cluster 02.prefab
+  artifactKey: Guid(e4344e099cebe3d499730897f820883d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Ruins Pack/Prefabs/Clusters/Ancient Pillar Cluster 02.prefab using Guid(e4344e099cebe3d499730897f820883d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7dfcdcc479c888f5c6148e33ff651d') in 0.446095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Forest Ruins Pack/Prefabs/Clusters/Rock Step Cluster 02.prefab
+  artifactKey: Guid(f9729c001e2f0cd40b836d7f3ab709bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Ruins Pack/Prefabs/Clusters/Rock Step Cluster 02.prefab using Guid(f9729c001e2f0cd40b836d7f3ab709bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae9f8a80b17968a571b0a8ce7945e41') in 0.025608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Forest Ruins Pack/Prefabs/Clusters/Stone Step Cluster 02.prefab
+  artifactKey: Guid(7c53025d08b40734292c604ed81885a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Ruins Pack/Prefabs/Clusters/Stone Step Cluster 02.prefab using Guid(7c53025d08b40734292c604ed81885a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45afe4db344b52f5cbcafe0bcbe010d1') in 0.023853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Forest Ruins Pack/Prefabs/Clusters/Tree Cluster 02.prefab
+  artifactKey: Guid(1831e64ea5de5f745bdfec6f31626e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Ruins Pack/Prefabs/Clusters/Tree Cluster 02.prefab using Guid(1831e64ea5de5f745bdfec6f31626e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e83b5602e3f0e5c2049e418fc93566bb') in 0.332674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Forest Ruins Pack/Prefabs/Clusters/Rock Step Cluster 01.prefab
+  artifactKey: Guid(b76f3d860a74f734e912558706a6b328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Ruins Pack/Prefabs/Clusters/Rock Step Cluster 01.prefab using Guid(b76f3d860a74f734e912558706a6b328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20f8f2a4eb847b4a7b2c64c03f3e446d') in 0.023148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Forest Ruins Pack/Prefabs/Clusters/Rock Step Cluster 03.prefab
+  artifactKey: Guid(2a3efb1bd83bcf8428d55650be234d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Ruins Pack/Prefabs/Clusters/Rock Step Cluster 03.prefab using Guid(2a3efb1bd83bcf8428d55650be234d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11b0187c3879e1e13c9a0a19b48a1f5d') in 0.025977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Forest Ruins Pack/Prefabs/Clusters/Stone Step Cluster 01.prefab
+  artifactKey: Guid(4e9a9907752b22841881aab73f6b7dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Ruins Pack/Prefabs/Clusters/Stone Step Cluster 01.prefab using Guid(4e9a9907752b22841881aab73f6b7dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7275e67cf4fc0ae16969363733996e37') in 0.024999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Forest Ruins Pack/Prefabs/Clusters/Tree Cluster 04.prefab
+  artifactKey: Guid(8af4e06fb3815f74e9be0e340e34ede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Ruins Pack/Prefabs/Clusters/Tree Cluster 04.prefab using Guid(8af4e06fb3815f74e9be0e340e34ede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0167d1de3faae5fe4e0ac6bd12ff14c2') in 0.030089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Forest Ruins Pack/Prefabs/Clusters/Rock Cluster 01.prefab
+  artifactKey: Guid(751383722de18bd4caf0482bb995e4f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Ruins Pack/Prefabs/Clusters/Rock Cluster 01.prefab using Guid(751383722de18bd4caf0482bb995e4f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39eb7bf24c6c9043994c9021efab105f') in 0.018970 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
