@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/_Gloomy_Wizard/Scenes/wizard_FX_demo.unity
+- path: Assets/Level_Scenes/Level_1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
