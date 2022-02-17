@@ -50,3 +50,9 @@ Library/SceneVisibilityState.asset
 Library/Search/transactions.db
 Library/SourceAssetDB
 UserSettings/Layouts/default-2021.dwlt
+<<<<<<< HEAD
+=======
+Logs/AssetImportWorker0.log
+Logs/AssetImportWorker2.log
+Logs/shadercompiler-UnityShaderCompiler.exe0.log
+>>>>>>> parent of 04741bae (Update .gitignore)
