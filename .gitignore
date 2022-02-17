@@ -52,6 +52,7 @@ Library/Search/transactions.db
 Library/SourceAssetDB
 UserSettings/Layouts/default-2021.dwlt
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Logs/AssetImportWorker0.log
 Logs/AssetImportWorker2.log
@@ -71,3 +72,5 @@ Logs/AssetImportWorker0.log
 >>>>>>> parent of 7c8945c7 (ignorar logs)
 =======
 >>>>>>> parent of 04741bae (Update .gitignore)
+=======
+>>>>>>> parent of 33760639 (Update .gitignore)
